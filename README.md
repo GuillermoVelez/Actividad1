@@ -5,7 +5,7 @@
 * Alex Humberto Rodriguez Rueda-20182020088
 
 #### Código realizado en Netbeans
-![Explicacion](imagenes/Explicacion.jpg)
+![Explicacion](Imagenes/Explicacion.jpg)
 
 #### Ventana
-![Ventana](imagenes/Ventana.png)
+![Ventana](Imagenes/Ventana.png)
